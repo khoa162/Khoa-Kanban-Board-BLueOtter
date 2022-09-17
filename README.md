@@ -23,10 +23,10 @@ My work has some deficiencies:
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-First you have to cd into the server and run commands: (port: 5000)
+First you have to cd into Khoa-Kanban-Board-Backend-BO and run commands: (port: 5000)
     yarn install
     yarn run start:dev
-Then you cd into the frontend and run commands: (port: 3000)
+Then you cd into Khoa-Kanban-Board-BO and run commands: (port: 3000)
     yarn install
     yarn run start
 ```
