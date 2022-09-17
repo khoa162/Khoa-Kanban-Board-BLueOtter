@@ -1,0 +1,204 @@
+{
+  "cards": [
+    {
+      "id": "2fab1909-0b9f-4783-976c-4ffecb805ac5",
+      "category": "ANDROID",
+      "title": "Reset password button not working",
+      "description": "The button does not contain any feedback, when you click on it, it does nothing",
+      "status": "Ongoing Task",
+      "hidden": false
+    },
+    {
+      "id": "5be53f27-a69c-4128-bf40-86cd572267a5",
+      "category": "iOS",
+      "title": "Create clear filters button",
+      "description": "The user can select the filters but they should also be able to clear them without having to reload the page",
+      "status": "Pending Task",
+      "hidden": false
+    },
+    {
+      "id": "6ed5a4b0-1e2c-4b71-ab42-e740f02da496",
+      "category": "Windows",
+      "title": "Set up the staging environment",
+      "description": "",
+      "status": "Pending Task",
+      "hidden": false
+    },
+    {
+      "id": "55cac86b-c223-4eed-992a-e231e9232d42",
+      "category": "Web",
+      "title": "Send first deploy to prod",
+      "description": "",
+      "status": "Pending Task",
+      "hidden": false
+    },
+    {
+      "id": "74d031c0-59bb-4f4b-9910-71bb1c88c624",
+      "category": "iOS",
+      "title": "Create landing page",
+      "description": "Teeeeed",
+      "status": "Live in Build",
+      "hidden": false
+    },
+    {
+      "id": "a04170d8-5f03-4a97-bbd7-cbc9516d0840",
+      "category": "Desktop",
+      "title": "Make the onDragEnd function more efficient",
+      "description": "Make the onDragEnd function more efficient ",
+      "status": "Ongoing Task",
+      "hidden": false
+    },
+    {
+      "id": "29065b36-8873-4ccd-8c42-dcff14736650",
+      "category": "Web",
+      "title": "Send first deploy to develop environment",
+      "description": "testerrrrr",
+      "status": "Live in Build",
+      "hidden": false
+    },
+    {
+      "id": "32eb3393-eddc-487a-abc3-1c199b86c4a2",
+      "category": "iOS",
+      "title": "Create light and dark theme switch",
+      "description": "",
+      "status": "In Development",
+      "hidden": false
+    },
+    {
+      "id": "7ce7b021-5cbe-482b-a1dc-2ff7f955698d",
+      "title": "deo me may",
+      "description": "deo me maydeo me maydeo me may",
+      "category": "iOS",
+      "status": "Completed",
+      "hidden": false
+    },
+    {
+      "id": "1b2df96d-2290-499e-bc4c-16a4a26530f5",
+      "title": "deo me no",
+      "description": "deo me no",
+      "category": "iOS",
+      "status": "Completed",
+      "hidden": false
+    },
+    {
+      "id": "4fd05a87-3f1e-4cfa-bcc0-0c45e03980ab",
+      "title": "this is a new task edit",
+      "description": "okokokok edit",
+      "category": "Web",
+      "status": "Completed",
+      "hidden": false
+    },
+    {
+      "id": "57ce0684-692e-4e99-82d4-be478eff7726",
+      "title": "this is the task to be live",
+      "description": "this is the task to be live",
+      "category": "iOS",
+      "status": "Live in Build",
+      "hidden": false
+    },
+    {
+      "id": "f0dc3beb-12bc-48bb-b3bf-8f03d56e87aa",
+      "title": "test windows ongoing",
+      "description": "test windows ongoing",
+      "category": "Windows",
+      "status": "Ongoing Task",
+      "hidden": false
+    },
+    {
+      "id": "638e2911-c095-4e5d-8661-9aa7036ddd3a",
+      "title": "test foreach",
+      "description": "test foreach",
+      "category": "iOS",
+      "status": "Pending Task",
+      "hidden": false
+    },
+    {
+      "id": "637aa48a-6d3a-481b-93fe-eec58123a7c4",
+      "title": "foreach again on going ",
+      "description": "foreach again on going ",
+      "category": "iOS",
+      "status": "Ongoing Task",
+      "hidden": false
+    },
+    {
+      "id": "1f5d950e-9496-4872-a045-bad5ce6f9646",
+      "title": "ongoing",
+      "description": "ongoing",
+      "category": "ANDROID",
+      "status": "Ongoing Task",
+      "hidden": false
+    },
+    {
+      "id": "00e5918b-ab27-4a78-b4b0-4f2567d16d1a",
+      "title": "hello",
+      "description": "geloooooo",
+      "category": "Desktop",
+      "status": "Completed",
+      "hidden": false
+    },
+    {
+      "id": "bc958b1d-7511-475e-bff9-875b6adc3c81",
+      "title": "test edit",
+      "description": "we can test the edit here",
+      "category": "iOS",
+      "status": "In Development",
+      "hidden": false
+    },
+    {
+      "id": "307b9260-5b68-4e7b-af8e-2c4be2bb958c",
+      "title": "edit ongoing task",
+      "description": "edit more ongoing task",
+      "category": "Desktop",
+      "status": "Ongoing Task",
+      "hidden": false
+    },
+    {
+      "id": "60926f35-1906-4e8f-8c1d-ffca774dbddd",
+      "title": "test title",
+      "description": "titltitlttitle",
+      "category": "iOS",
+      "status": "Pending Task",
+      "hidden": false
+    },
+    {
+      "id": "99f4cae8-d7db-4de4-8b9a-c30446871999",
+      "title": "test title",
+      "description": "test titletest titletest titletest title",
+      "category": "Windows",
+      "status": "Ongoing Task",
+      "hidden": false
+    },
+    {
+      "id": "64dd3432-d26b-4cec-ae95-3649a23636d2",
+      "title": "build build",
+      "description": "build build",
+      "category": "Desktop",
+      "status": "Live in Build",
+      "hidden": false
+    },
+    {
+      "id": "13bab0b6-78a0-40ac-90b2-811bb5c166ad",
+      "title": "in dev",
+      "description": "in dev new task",
+      "category": "ANDROID",
+      "status": "In Development",
+      "hidden": false
+    },
+    {
+      "id": "7e111b16-728f-483b-a453-956a66baa693",
+      "title": "completed",
+      "description": "completedcompletedcompleted",
+      "category": "Desktop",
+      "status": "Completed",
+      "hidden": false
+    },
+    {
+      "id": "512c99c1-0fb0-4597-929b-a506f1d1c89b",
+      "title": "last test ok done 111 222 333 444 555 666",
+      "description": "last test ok done1 11 222 333 444 5555 666 777 888 9999999999",
+      "category": "Desktop",
+      "status": "Live in Build",
+      "hidden": false
+    }
+  ]
+}
