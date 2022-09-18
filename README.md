@@ -10,7 +10,7 @@ My work has some deficiencies:
 - The server is restarted when the json files are updated with the card data. The cause of this issue is because I use json files to store the data of cards and columns, **causing the nodemon to reload the whole server**. I implement it in this way to keep the setup simple, otherwise you have to install the database locally to run the code. For this reason, **you should wait around 5-7 seconds to refresh the page after changes** on the board while the server is restarting.
 ## Solutions to this issue:
 - Of course, we can get data stored in the database. This is the best solution.
-- Second, we can utilize redux persist to temporarily preserve the store data accross the whole application. And then we can schedule the data update with the server. 
+- Second, we can utilize redux persist to temporarily preserve the store data accross the whole application. And then we can schedule the data update with the server in the background. 
 - We can implement the redis (in-memory storage) to handle the data right on the backend server.
 
 ## Tech Stack
